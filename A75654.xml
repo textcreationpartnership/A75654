@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles of agreement, for the surrender of the strong &amp; invincible Castle of Edinborough; the manner of the Lord Gen. Cromwels playing his fire-works before the Treaty, the number of men slain; the taking of the Scots Roaring-Meg, and 52 pieces of ordnance, eleven thousand arms, 200 barrels of gunpowder; and great store of match and bullet. The Lord Gen. declaration to the Scots; their marching away with flying colours; and the protestation of the Earl of Castles, and the L. Humby, touching the King and Parliament; with the copy of a dissenting declaration against their King, cast into his coach as he was coming from the Parliament-hous.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75654</idno>
+            <idno type="STC">Wing A3835</idno>
+            <idno type="STC">Thomason E620_15</idno>
+            <idno type="STC">ESTC R206384</idno>
+            <idno type="EEBO-CITATION">99865544</idno>
+            <idno type="PROQUEST">99865544</idno>
+            <idno type="VID">165777</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165777)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E620[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles of agreement, for the surrender of the strong &amp; invincible Castle of Edinborough; the manner of the Lord Gen. Cromwels playing his fire-works before the Treaty, the number of men slain; the taking of the Scots Roaring-Meg, and 52 pieces of ordnance, eleven thousand arms, 200 barrels of gunpowder; and great store of match and bullet. The Lord Gen. declaration to the Scots; their marching away with flying colours; and the protestation of the Earl of Castles, and the L. Humby, touching the King and Parliament; with the copy of a dissenting declaration against their King, cast into his coach as he was coming from the Parliament-hous.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 31 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Edinburgh Castle (Edinburgh, Scotland) --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165777:1" rendition="simple:additions"/>
+            <p>THE ARTICLES Of Agreement, For the Surrender of the ſtrong &amp; invincible <hi>Caſtle</hi> of <hi>Edinborough;</hi> the manner of the Lord Gen. <hi>Cromwel's</hi> play<g ref="char:EOLhyphen"/>ing his Fire-works before the Treaty, the number of men ſlain; the taking of the <hi>Scots</hi> Roaring-Meg, and 52 Pieces of Ordnance, eleven thouſand Arms, 200 Barrels of Gun<g ref="char:EOLhyphen"/>powder; and great ſtore of Match and Bullet. The Lord Gen. Declaration to the <hi>Scots;</hi> their marching away with flying Colours; and the <hi>Proteſtation</hi> of the Earl of <hi>Caſtles,</hi> and the L. <hi>Humby,</hi> touching the <hi>King</hi> and <hi>Parliament;</hi> with the Copy of a diſſenting <hi>Decla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation</hi> againſt their King, caſt into his Coach as he was coming from the <hi>Parliament-houſ.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a (city) gate, illustrating the verse of the psalm</figDesc>
+               <q>
+                  <bibl>PSAL. 118. Ver. 20.</bibl>
+                  <l>This is the Gate of the <hi>LORD;</hi>
+                  </l>
+                  <l>The righteous ſhall enter into it.</l>
+               </q>
+            </figure>
+            <p>
+               <add>Dec. 31 1650</add> 
+               <hi>LONDON,</hi> Printed by <hi>R. W.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles_of_surrender">
+            <pb facs="tcp:165777:2"/>
+            <pb n="1" facs="tcp:165777:2"/>
+            <head>ARTICLES OF AGREEMENT; <hi>FOR</hi> The ſurrender of Edinborough Caſtle, with all the Ordnance, ten thouſand Arms, 40 Barrels of Powder, and great ſtore of Warlike Proviſion.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is Excellency the Lord General Cromwel being deſirous to uſe all meanes poſſible, for the redu<g ref="char:EOLhyphen"/>cing of Edenborow Caſtle, with<g ref="char:EOLhyphen"/>out the effuſion of bloud, ſent a<g ref="char:EOLhyphen"/>nother Summons to the Lord Governor Dun<g ref="char:EOLhyphen"/>daſs, for the ſurrender thereof; which was again
+<pb n="2" facs="tcp:165777:3"/>deni'd: Whereupon Tueſday Decemb. 17 the four Morter pieces, and ſix Battering Pieces plaid very hard againſt the Caſtle, ſo that in an hours time, all their Guns, except one upon the main Battery, were drawn back, and many of the Granado's fell into the Caſtle, doing great execution: Notwithſtanding which, the Go<g ref="char:EOLhyphen"/>vernour cauſed a red Flag of Defiance to be hung on the top of the high Tower; but upon playing the laſt Granado, a moſt hideous noiſe was heard within, divers being wounded, and five killed; which ſoon cauſed the Enemy to take down their red Flag, and hung out a white one, immediatly ſending forth a Drummer, of<g ref="char:EOLhyphen"/>fering to ſurrender, if they might have liberty to ſend to the Committee of Eſtates; but that being denied, a treaty was embraced, and Ma<g ref="char:EOLhyphen"/>jor Aberneth ſent out to treat on their behalf; and on ours, Col. Monk, and Lieu. Col. White, who ſate up all night in debate of Articles; at laſt, it was reſolved as followeth:</p>
+            <p n="1">1 That the Caſtle of Edenburgh ſhould be ſurrendred to his Excellency the Lord Gen. Cromwel on Tueſday the 24 inſtant, with all the Ordnance, Armes, Magazin, and Furniture of War thereunto belonging.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:165777:3"/> 2 That the Governour, with the Officers &amp; Souldiers, ſhould march forth with their Arms, Colours flying, Drums beating, matches light<g ref="char:EOLhyphen"/>ed, and bullet in mouth, to ſuch a place as they ſhould make choice of.</p>
+            <p n="3">3 That the Goods belonging to the Inha<g ref="char:EOLhyphen"/>bitants adjacent, and others, ſhould be reſtored to them.</p>
+            <p n="4">4 That the competency of time allowed for them to fetch them away, ſhould not extend a<g ref="char:EOLhyphen"/>bove four dayes, beginning Friday the 19 in<g ref="char:EOLhyphen"/>ſtant. And for the due obſervation and per<g ref="char:EOLhyphen"/>formance of Articles, Hoſtages were delived to the Lord General. There is in the Caſtle 52 pieces of Ordnance, divers of them large braſs pieces, above ten thouſand Arms, and much Ammunition and Proviſion; a Liſt whereof I have ſent you here incloſed: together with the Lord Generals Declaration. When our men entred the Caſtle, they found very litle Wines, leſs Beer, and not above ten gallons of Water. There marched out about 400 Miniſters, Gen<g ref="char:EOLhyphen"/>tlemen, and ſouldiers, and not above twenty horſe.</p>
+            <closer>
+               <dateline>Edinborough <date>27 Decem. 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration_in_response_to_the_articles">
+            <pb n="4" facs="tcp:165777:4"/>
+            <head>The Lord Gen. Declaration.</head>
+            <p>WHereas there is an Agree<g ref="char:EOLhyphen"/>ment of Articles by Trea<g ref="char:EOLhyphen"/>ty, concluded betwixt my ſelf, and Col. Dundaſs, Governour of the Caſtle of Edinburgh, which doth give free liberty to all Inhabitants adja<g ref="char:EOLhyphen"/>cent, and all other perſons who have a<g ref="char:EOLhyphen"/>ny goods in the ſaid Caſtle, to fetch forth the ſame from thence. Theſe are therefore to declare, that all ſuch people before mentioned, who have any goods in the caſtle, as is before expreſt, ſhall have free liberty between this preſent Tueſday the 19 inſtant, and Tueſday the 24, to repair to the caſtle, and to fetch away their goods, without let or moleſtation. And I do hereby further declare and require all Officers and ſol<g ref="char:EOLhyphen"/>diers of this Army, that they take ſtrict
+<pb n="5" facs="tcp:165777:4"/>care, that no violation be done to any perſon or perſons fetching away their goods, and carrying them to ſuch place or places, as to them ſeemeſt fit, and if it ſhall ſo fall out, that any ſouldier ſhall be found wilingly or wilfully to do any thing contrary hereunto, he ſhall dye f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>me; or any Officer whatſoe<g ref="char:EOLhyphen"/>ve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>al either through connivance or o<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, do any thing contrary hereunto, ſhall likewiſe ſuffer death.</p>
+            <closer>
+               <signed>O. CROMWEL.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>Since the publiſhing of this Declaration, we hear that the Earl of Caſtles, E. of Bridge, Lord Humby, Sir Jo: Cheeſly, and others, have de<g ref="char:EOLhyphen"/>clared againſt the King and Royal party, pro<g ref="char:EOLhyphen"/>teſting againſt the proceedings of their Parlia<g ref="char:EOLhyphen"/>ment, &amp;c. The Inhabitants in the Weſt have likewiſe declared againſt King and Parl. their diſcontents being exceeding great; as appears by this incloſed Paper, lately caſt into their K. Coach; a copy whereof followeth.</p>
+            <pb n="6" facs="tcp:165777:5"/>
+            <p>
+               <q>That by the Lawes of God, and Na<g ref="char:EOLhyphen"/>ture, they were bound and oblig'd to preſerve their Liberties and Freedoms, againſt all ſets and ſorts of Perſons who endeavour'd to infringe the ſame, and in Order thereunto, were reſolved to ſhake off the yoak of Monarchy, utterly de<g ref="char:EOLhyphen"/>teſting the Agreement lately made be<g ref="char:EOLhyphen"/>tween the Parliament, and their declared KING, as a thing unwarrantable, ar<g ref="char:EOLhyphen"/>bytrary, and uſurping.</q>
+            </p>
+         </div>
+         <div type="list_of_captured_ordnance">
+            <head>A Lift of the <hi>Ordnance, Arms, Ammunition,</hi> &amp;c. taken in <hi>Edinburgh Caſtle.</hi>
+            </head>
+            <list>
+               <item>52 Peeces of Ordnance, <hi>viz.</hi>
+                  <list>
+                     <item>The Roaring Meg.</item>
+                     <item>2 Whole Braſs canon.</item>
+                     <item>4 Demi-canon.</item>
+                     <item>6 Demi-culverin.</item>
+                     <item>8 Murtherers.</item>
+                     <item>20. Sakers; and other ſmal Pieces.</item>
+                  </list>
+               </item>
+               <item>11000 Armes.</item>
+               <item>7000 Muſquets.</item>
+               <item>1200 Pikes.</item>
+               <item>500 half pikes, and arms for <hi>Curiſeers.</hi>
+               </item>
+               <item>200 barrels of powder.</item>
+               <item>Great ſtore of Match and other Furniture of War.</item>
+               <item>700 buſhels of meal, Peaſe flower, and o<g ref="char:EOLhyphen"/>ther ſuch like grain.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
